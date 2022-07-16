@@ -1,8 +1,10 @@
 # Global-Firepower 2022
+----------------------------------------------
+# Introduction
 
-Introduction
-The Global Firepower provides an annual defense review among the nations of the Wolrd. Each country is evaluated using multiple categories (Man power, Equipments, Natural Resources, Logistics, Geography etc) to determine it's Power Index Score. 
-The smaller the Power Ondex Vlaue, the more powerful a nation's theoretical fighting capacity is (by cob=ventional means, nuclear weapon capacity is not taken into account).
+The Global Firepower provides an annual defense review among the nations of the Wolrd. 
+Each country is evaluated using multiple categories (Man power, Equipments, Natural Resources, Logistics, Geography etc) to determine it's Power Index Score. 
+The smaller the Power Index Vlaue is, the more powerful a nation's theoretical fighting capacity is (by conventional means, nuclear weapon capacity is not taken into account).
 A perfect power index score is 0.0000 which is realistically unattainable in the scope of the current Global Firepower (GFP) formula
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Data Source
@@ -11,7 +13,7 @@ Data set was provided in a csv file format by the D'Challenger (a non-profit org
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Data Transformation and Cleaning
 
-It was thereafter imported into the Power query editor of power BI tool for cleaning, analysing and visualization. It contains 2 sheets mainly
+Data was thereafter imported into the Power query editor of power BI tool for cleaning, analysing and visualization. It contains 2 sheets mainly
 1. Matadata shet that has the information about the data and,
 2. Global fire ranking 2022 sheet which has the following columns: 
 •country •country_code •PowerIndex •Continent •Active Personnel •Aircraft Carriers
