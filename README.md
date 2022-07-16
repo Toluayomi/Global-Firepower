@@ -14,15 +14,14 @@ Data set was provided in a csv file format by the D'Challenger (a non-profit org
 It was thereafter imported into the Power query editor of power BI tool for cleaning, analysing and visualization. It contains 2 sheets mainly
 1. Matadata shet that has the information about the data and,
 2. Global fire ranking 2022 sheet which has the following columns: 
-country, country_code,	PowerIndex,	Continent,	Active Personnel,	Aircraft Carriers,
-Armored Vehicles,	Attack Helicopters,	Available Manpower	,Coastline Coverage,
-Corvettes,	Dedicated Attack, Defense Budget($),	Destroyers,	External Debt	,
-Fighters/Interceptors,	Fit-for-Service	,Foreign Exchange/Gold,	Frigates,
-Helicopter Carriers,	Helicopters,	Labor Force	, ,Merchant Marine Fleet	Mine Warfare	
-Navy Ships,	Oil Consumption, Oil Production,	Oil Proven Reserves,	Paramilitary Patrol Vessels,
-Ports / Trade Terminals,	Purchasing Power Parity,	Railway Coverage,	Reaching Mil Age Annually,	Reserve Personnel,
-Roadway Coverage,	Rocket Projectors,	Self-Propelled Artillery,	Shared Borders,	Special-Mission	,Square Land Area	,Submarines,
-Tanker, Fleet Tanks, Total Aircraft Strength,	Total Population,	Towed Artillery	Trainers,	Transports,	Waterways (usable)
+•country •country_code •PowerIndex •Continent •Active Personnel •Aircraft Carriers
+•Armored Vehicles •Attack Helicopters •Available Manpower •Coastline Coverage
+•Corvettes •Dedicated Attack •Defense Budget($)	•Destroyers •External Debt •Fighters/Interceptors	
+•Fit-for-Service •Foreign Exchange/Gold	•Frigates •Helicopter Carriers •Helicopters	
+•Labor Force •Merchant Marine Fleet •Mine Warfare •Navy Ships •Oil Consumption •Oil Production	
+•Oil Proven Reserves •Paramilitary •Patrol Vessels •Ports / Trade Terminals •Purchasing Power Parity •Railway Coverage •Reaching Mil Age Annually	
+•Reserve Personnel •Roadway Coverage •Rocket Projectors	 •Self-Propelled Artillery •Shared Borders •Special-Mission	
+•Square Land Area •Submarines •Tanker •Fleet Tanks •Total Aircraft Strength,	Total Population •Towed Artillery •Trainers •Transports	•Waterways (usable)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Problem Statement
 
